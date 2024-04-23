@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @UdayKumar
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently student of Computer Science Engineering
-- 💞️ I’m looking to collaborate on working together
+- 💞️ I’m looking to collaborate with working together
 - 📫 How to reach me udaykumar301936@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: cooking food
 
 <!---
 UdayChandu97/UdayChandu97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
